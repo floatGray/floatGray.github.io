@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floatgray.github.io/</id>
     <title>floatGray</title>
-    <updated>2021-02-02T12:57:38.304Z</updated>
+    <updated>2021-02-03T02:41:32.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://floatgray.github.io/"/>
     <link rel="self" href="https://floatgray.github.io/atom.xml"/>
@@ -11,17 +11,31 @@
     <icon>https://floatgray.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, floatGray</rights>
     <entry>
+        <title type="html"><![CDATA[寒假学习预先计划]]></title>
+        <id>https://floatgray.github.io/post/han-jia-xue-xi-yu-xian-an-pai/</id>
+        <link href="https://floatgray.github.io/post/han-jia-xue-xi-yu-xian-an-pai/">
+        </link>
+        <updated>2021-02-03T02:28:38.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="为什么在寒假学习">为什么在寒假学习</h1>
+<p>寒假的优势不言而喻：有大块整段的时间。</p>
+<h1 id="学什么">学什么</h1>
+<p>算法与数据结构，刷算法题，考研数学，考研英语</p>
+<h1 id="如何安排">如何安排</h1>
+<p>算法使用ACWing的课程，数学刷李永乐复习全书，英语记单词。</p>
+<h1 id="学习时间段">学习时间段</h1>
+<p>2021年1月19日——2021年2月26日<br>
+<strong>39天</strong><br>
+936小时</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://floatgray.github.io/post/hello-gridea/</id>
         <link href="https://floatgray.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
 <a href="http://fehey.com/">示例网站</a></p>
