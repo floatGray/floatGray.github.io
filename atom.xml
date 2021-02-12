@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://floatgray.xyz</id>
+    <id>https://floatgray.github.io/</id>
     <title>floatGray</title>
-    <updated>2021-02-12T16:40:07.213Z</updated>
+    <updated>2021-02-12T16:42:18.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://floatgray.xyz"/>
-    <link rel="self" href="http://floatgray.xyz/atom.xml"/>
+    <link rel="alternate" href="https://floatgray.github.io/"/>
+    <link rel="self" href="https://floatgray.github.io/atom.xml"/>
     <subtitle>记录学习与思考</subtitle>
-    <logo>http://floatgray.xyz/images/avatar.png</logo>
-    <icon>http://floatgray.xyz/favicon.ico</icon>
+    <logo>https://floatgray.github.io/images/avatar.png</logo>
+    <icon>https://floatgray.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, floatGray</rights>
     <entry>
         <title type="html"><![CDATA[够了，我无法再忍受这样的人]]></title>
-        <id>http://floatgray.xyz/post/gou-liao-wo-wu-fa-zai-ren-shou-zhe-yang-de-ren/</id>
-        <link href="http://floatgray.xyz/post/gou-liao-wo-wu-fa-zai-ren-shou-zhe-yang-de-ren/">
+        <id>https://floatgray.github.io/post/gou-liao-wo-wu-fa-zai-ren-shou-zhe-yang-de-ren/</id>
+        <link href="https://floatgray.github.io/post/gou-liao-wo-wu-fa-zai-ren-shou-zhe-yang-de-ren/">
         </link>
         <updated>2021-02-12T16:26:31.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -42,8 +42,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[总有更值得做的事情]]></title>
-        <id>http://floatgray.xyz/post/zong-you-geng-zhi-de-zuo-de-shi-qing/</id>
-        <link href="http://floatgray.xyz/post/zong-you-geng-zhi-de-zuo-de-shi-qing/">
+        <id>https://floatgray.github.io/post/zong-you-geng-zhi-de-zuo-de-shi-qing/</id>
+        <link href="https://floatgray.github.io/post/zong-you-geng-zhi-de-zuo-de-shi-qing/">
         </link>
         <updated>2021-02-06T15:50:05.000Z</updated>
         <content type="html"><![CDATA[<p>当我们迫于学校的教学计划，被迫选一些看上去比较没用的课程时，总会听到一些充满善意的劝慰：“这些知识多学一些也没有什么不好，没准哪天就能用得到呢！”这种话乍听起来仿佛很有道理，但实际上却是不折不扣的谎言。</p>
@@ -56,8 +56,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[要怎样努力，才能成为很厉害的人]]></title>
-        <id>http://floatgray.xyz/post/yao-zen-yang-nu-li-cai-neng-cheng-wei-hen-li-hai-de-ren/</id>
-        <link href="http://floatgray.xyz/post/yao-zen-yang-nu-li-cai-neng-cheng-wei-hen-li-hai-de-ren/">
+        <id>https://floatgray.github.io/post/yao-zen-yang-nu-li-cai-neng-cheng-wei-hen-li-hai-de-ren/</id>
+        <link href="https://floatgray.github.io/post/yao-zen-yang-nu-li-cai-neng-cheng-wei-hen-li-hai-de-ren/">
         </link>
         <updated>2021-02-05T14:08:34.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -101,8 +101,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[寒假学习预先计划]]></title>
-        <id>http://floatgray.xyz/post/han-jia-xue-xi-yu-xian-an-pai/</id>
-        <link href="http://floatgray.xyz/post/han-jia-xue-xi-yu-xian-an-pai/">
+        <id>https://floatgray.github.io/post/han-jia-xue-xi-yu-xian-an-pai/</id>
+        <link href="https://floatgray.github.io/post/han-jia-xue-xi-yu-xian-an-pai/">
         </link>
         <updated>2021-01-17T02:28:38.000Z</updated>
         <content type="html"><![CDATA[<h1 id="为什么在寒假学习">为什么在寒假学习</h1>
@@ -119,8 +119,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[内卷的社会，各阶层的众生相]]></title>
-        <id>http://floatgray.xyz/post/nei-juan-de-she-hui-ge-jie-ceng-de-zhong-sheng-xiang/</id>
-        <link href="http://floatgray.xyz/post/nei-juan-de-she-hui-ge-jie-ceng-de-zhong-sheng-xiang/">
+        <id>https://floatgray.github.io/post/nei-juan-de-she-hui-ge-jie-ceng-de-zhong-sheng-xiang/</id>
+        <link href="https://floatgray.github.io/post/nei-juan-de-she-hui-ge-jie-ceng-de-zhong-sheng-xiang/">
         </link>
         <updated>2020-11-27T15:17:08.000Z</updated>
         <content type="html"><![CDATA[<h1 id="何为内卷">何为“内卷”</h1>
@@ -157,8 +157,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[正确地浪费剩下的时间]]></title>
-        <id>http://floatgray.xyz/post/zheng-que-di-lang-fei-sheng-xia-de-shi-jian/</id>
-        <link href="http://floatgray.xyz/post/zheng-que-di-lang-fei-sheng-xia-de-shi-jian/">
+        <id>https://floatgray.github.io/post/zheng-que-di-lang-fei-sheng-xia-de-shi-jian/</id>
+        <link href="https://floatgray.github.io/post/zheng-que-di-lang-fei-sheng-xia-de-shi-jian/">
         </link>
         <updated>2020-11-10T15:57:57.000Z</updated>
         <content type="html"><![CDATA[<p>如果说，毕业文凭是一项增值服务，那么大学四年就是一笔投资。说到投资，请大家设想象下，如果你手上现在有五百万现金，你打算如何投资？也许你会拿这笔钱炒股炒房炒汇炒基金，或者是开公司开厂房倒买倒卖做生意。但我想，我们这样年纪的人，很少有人会认同把那笔钱换成金银珠宝，放到保险箱里存起来。当然了，看近年通货膨胀的架势，把钱存进银行吃到的利息估计还赶不上贬值的速度。</p>
@@ -189,8 +189,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[悲壮的学习方式]]></title>
-        <id>http://floatgray.xyz/post/bei-zhuang-de-xue-xi-fang-shi/</id>
-        <link href="http://floatgray.xyz/post/bei-zhuang-de-xue-xi-fang-shi/">
+        <id>https://floatgray.github.io/post/bei-zhuang-de-xue-xi-fang-shi/</id>
+        <link href="https://floatgray.github.io/post/bei-zhuang-de-xue-xi-fang-shi/">
         </link>
         <updated>2020-11-02T15:47:46.000Z</updated>
         <content type="html"><![CDATA[<p>古人刻苦学习的故事，直到现在还在我们的身边不断上演。据说每天在新、东上中下院和图书馆都有几千人在自习。学生趴在山一样高的习题集边上苦苦奋斗，绝对是我校作为国内一流大学的亮丽的风景线。挖空心思研究解题技巧的学生们，与同样挖空心思研究出题技巧的老师们，构成了一个完美的圆环。在二者日复一日的机械劳动中，我只看到纸张、电力，以及粮食不断被浪费，却看不到中华之崛起。</p>
@@ -203,8 +203,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[PyCharm教程]]></title>
-        <id>http://floatgray.xyz/post/pycharm-jiao-cheng/</id>
-        <link href="http://floatgray.xyz/post/pycharm-jiao-cheng/">
+        <id>https://floatgray.github.io/post/pycharm-jiao-cheng/</id>
+        <link href="https://floatgray.github.io/post/pycharm-jiao-cheng/">
         </link>
         <updated>2020-06-28T14:45:48.000Z</updated>
         <content type="html"><![CDATA[<p>PyCharm 是一种 Python IDE，可以帮助程序员节约时间，提高生产效率。</p>
