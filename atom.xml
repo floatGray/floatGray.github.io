@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floatgray.github.io/</id>
     <title>floatGray</title>
-    <updated>2021-02-06T16:36:25.914Z</updated>
+    <updated>2021-02-12T16:29:43.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://floatgray.github.io/"/>
     <link rel="self" href="https://floatgray.github.io/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://floatgray.github.io/images/avatar.png</logo>
     <icon>https://floatgray.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, floatGray</rights>
+    <entry>
+        <title type="html"><![CDATA[够了，我无法再忍受这样的人]]></title>
+        <id>https://floatgray.github.io/post/gou-liao-wo-wu-fa-zai-ren-shou-zhe-yang-de-ren/</id>
+        <link href="https://floatgray.github.io/post/gou-liao-wo-wu-fa-zai-ren-shou-zhe-yang-de-ren/">
+        </link>
+        <updated>2021-02-12T16:26:31.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>说话靠网络梗,听歌靠综艺节目,发表意见靠复制粘贴，这样的人真的算活着吗？</p>
+</blockquote>
+<p>三年前,我刚刚踏入中文社交网站,彼时怀着一定要溺死在网上的心情,每时每刻都在享受别人的观点.目前,我是一名资深网民,见证了信息流推送方式的一步步发展,也看到了网络门槛下降带来的种种危机.</p>
+<p>现在,仅存的大型中文社交网络也许正走在崩溃的边缘.推荐算法越来越&quot;喂猪式&quot;,你看过的信息总会分裂出一堆类似的信息,实质上建立起了信息茧房.最为致命的,是一群人,他们:</p>
+<ul>
+<li>以网络引战为乐,使用钓鱼/反串黑/春秋笔法等类似武器,狂飙的评论数是他们的春药</li>
+<li>搞斗争,搞批斗,著名的&quot;田园女拳&quot;</li>
+<li>盲目从众,复制黏贴,哪里都要刻上到此一游</li>
+</ul>
+<p>看到这类人,我已经眉头紧锁了,当我模仿这些人说话时:</p>
+<ul>
+<li>&quot;推荐算法?信息茧房?和你说的标题有毛关系?&quot;</li>
+<li>&quot;为啥例子里面只谈女拳,作者一定是男性主义者,不搞斗争,姥子就是看不惯你这种屌癌&quot;</li>
+<li>B站黏贴怪:&quot;一个赞我就...&quot;</li>
+</ul>
+<p>感觉怫然不悦,充斥如此氛围的社交已经超过正常人的阈值了.作为看客也只好感叹一句,他们都像发动战争似的,最终要对方死,崩溃,投降.</p>
+<p>微博上的女拳,尤其令人作呕.微博仅仅是她们使用舆论的工具,抱团攻击,煽动话语,恶词相向是家常便饭.次次矫枉过正,不得不让人怀疑她们的动机,是利益驱使,还是单纯情感宣泄.</p>
+<p>国内主流互联网环境总是出于各种各样的考虑,加上了审查要素,但在微博下,这个方式总会误伤正常的观点发表而放过仇恨言论,这也算是衰落的小原因吧.</p>
+<p>中文互联网也已经陷入困境,各种各样的目标人群不同的社区,加剧了网络社会的撕裂,微博变成战场,虎扑豆瓣等等变成了各自的大本营.一些社会事件的爆发,一定要引起舆论的发酵,最终各自下场厮杀拼个你死我活,两败俱伤.</p>
+<p>我对于中文互联网的社交环境的治理持悲观态度,这是个死局.只能冀求自身能准确分辨出上面这些人之后,不予理会,还自己一个还算清静的使用环境.</p>
+<p>最后,怀念一下三年前的即刻,当时使用即刻一天平均能到6小时,以至于不得不选择卸载它来保护我学习时间.它可以自定义的信息流,使得每个话题令人感兴趣的,类RSS阅读,小而美的非熟人社交,基本看不到令人厌烦的言语.我还是喜欢自己寻找有趣的内容啊.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[总有更值得做的事情]]></title>
         <id>https://floatgray.github.io/post/zong-you-geng-zhi-de-zuo-de-shi-qing/</id>
