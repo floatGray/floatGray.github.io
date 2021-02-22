@@ -1,0 +1,141 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>floatGray</title>
+<link rel="shortcut icon" href="https://floatgray.github.io//favicon.ico">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css">
+<link rel="stylesheet" href="https://floatgray.github.io//media/css/tailwind.css">
+<link rel="stylesheet" href="https://floatgray.github.io//styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="floatGray - Atom Feed" href="https://floatgray.github.io//atom.xml">
+
+    
+
+  <meta name="description" content="记录学习与思考" />
+</head>
+<body>
+  <div class="antialiased flex flex-col min-h-screen" id="app">
+
+    <div class="nav py-3 md:py-8 fixed w-full z-10 bg-gray-50 dark:bg-gray-700 transition-all duration-300" :class="{ 'scroll': scrolled }">
+  <div class="flex justify-end px-4">
+    <div class="w-8 h-8 flex justify-center items-center rounded-full md:hidden" @click="showMenu = !showMenu">
+      <i class="ri-close-line" v-show="showMenu"></i>
+      <i class="ri-menu-3-line" v-show="!showMenu"></i>
+    </div>
+  </div>
+  <nav class="max-w-4xl w-full mx-auto text-center flex flex-col md:flex-row justify-center md:block" :class="`${ showMenu ? 'block' : 'hidden' }`">
+    
+      <a href="/" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
+        首页
+      </a>
+    
+      <a href="/archives" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
+        归档
+      </a>
+    
+      <a href="/tags" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
+        标签
+      </a>
+    
+      <a href="/post/about" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
+        关于
+      </a>
+    
+    <a href="https://floatgray.github.io//atom.xml" target="_blank" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
+      RSS
+    </a>
+  </nav>
+</div>
+
+    <div class="max-w-4xl w-full mx-auto pt-32">
+      <h1 class="text-2xl font-bold pb-8 flex justify-center items-center">
+        <i class="ri-hashtag"></i>
+        牢骚
+      </h1>
+      <div class="shadow-box bg-white dark:bg-gray-600 border-gray-300 rounded-none md:rounded-lg -mx-1 md:mx-0 md:px-0">
+        
+  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
+    
+    <div class="flex-1 order-2 md:order-1">
+      <h2 class="text-2xl font-semibold mb-4">
+        <a href="https://floatgray.github.io/post/qing-hua/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
+          情 话
+        </a>
+      </h2>
+      <div class="mb-4 text-xs text-gray-500">2021-03-07</div>
+      <div class="mb-4 text-gray-500 dark:text-gray-300">
+        最近，一位妙龄少女收留了我。
+当我想——“爱情就这样算了吧”，
+当我在故乡那离群的生活结束以后，
+她收留了我。
+她用睡梦的气息安慰我，使我闭着眼笑了出来。当我不诚实的时候，当我起了坏的念头，我懊恼不能自已地埋在她的头发里，唯愿日后能向她认错...
+      </div>
+      <a href="https://floatgray.github.io/post/qing-hua/" class="btn">
+        阅读
+      </a>
+    </div>
+    
+      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://floatgray.github.io//post-images/qing-hua.jpg" alt="情 话">
+    
+  </div>
+
+  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
+    
+    <div class="flex-1 order-2 md:order-1">
+      <h2 class="text-2xl font-semibold mb-4">
+        <a href="https://floatgray.github.io/post/meng-dao-nu-shen-liao-liao-yi-xia-wu/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
+          梦到女神，聊了一下午
+        </a>
+      </h2>
+      <div class="mb-4 text-xs text-gray-500">2021-03-04</div>
+      <div class="mb-4 text-gray-500 dark:text-gray-300">
+        新发现，下午睡觉总能梦到些好事儿。日子过得越憋屈，梦做得越香甜。
+梦到女神，与她在草地上谈天，周围人声喧嚷，都是游客。我把头枕着曲起的右臂，翻看女神的相册。都是小孩时期的女神，童年发生了什么事，她都说给我听。我们笑笑停停，至于是什么事，刚醒...
+      </div>
+      <a href="https://floatgray.github.io/post/meng-dao-nu-shen-liao-liao-yi-xia-wu/" class="btn">
+        阅读
+      </a>
+    </div>
+    
+      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://floatgray.github.io//post-images/meng-dao-nu-shen-liao-liao-yi-xia-wu.jpg" alt="梦到女神，聊了一下午">
+    
+  </div>
+
+  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
+    
+    <div class="flex-1 order-2 md:order-1">
+      <h2 class="text-2xl font-semibold mb-4">
+        <a href="https://floatgray.github.io/post/kan-ri-chu/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
+          看日出
+        </a>
+      </h2>
+      <div class="mb-4 text-xs text-gray-500">2021-02-25</div>
+      <div class="mb-4 text-gray-500 dark:text-gray-300">
+        基本上又是一夜没睡，歪在床头像条狗一样地眯了几分钟。伸手去关灯，房间里没有想象中那么黑，书脊和烟盒上的烫金依稀可辨。
+黎明静静地藏在阳台上已经有一会儿，因为是个哑巴，所以不能立即察觉。就像一个女孩，早早地在窗户那里勾引你。
+我赤脚站在了阳台...
+      </div>
+      <a href="https://floatgray.github.io/post/kan-ri-chu/" class="btn">
+        阅读
+      </a>
+    </div>
+    
+      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://floatgray.github.io//post-images/kan-ri-chu.webp" alt="看日出">
+    
+  </div>
+  
+      </div>
+
+      
+      <footer class="py-12 text-center px-4 md:px-0" v-pre>
+  
+</footer>
+
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script src="https://floatgray.github.io//media/scripts/main.js"></script>
+</body>
+</html>
